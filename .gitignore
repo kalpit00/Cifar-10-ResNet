@@ -1,0 +1,18 @@
+# Personal notes and course/Kaggle reference material
+history.md
+kaggle_overview.md
+NYU Tandon Deep Learning F26 _ Kaggle.html
+NYU Tandon Deep Learning F26 _ Kaggle_files/
+project1.pdf
+
+# Competition data (download it from Kaggle, see README)
+data/
+data.zip
+
+# Trained weights (500MB+, kept off GitHub)
+models/
+models*.zip
+
+# macOS / Jupyter clutter
+.DS_Store
+.ipynb_checkpoints/
